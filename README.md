@@ -13,6 +13,6 @@ hoffentlisch klappt det
 ööörgendwas
 
 ``` c++
-static void main(){
-	wtf is this?;
+public static void main(){
+	this.wtf;
 }```
