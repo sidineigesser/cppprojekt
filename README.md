@@ -14,8 +14,7 @@ Hallo3
 
 
 
-höhöhöhöhöhöhöhöööööööö
-hallo nils!
+dit is davids branch
 
 jannis hats vielleicht verstanden
 bla
@@ -33,6 +32,9 @@ public static void main(){
 <<<<<<< HEAD
 
 joooo =)
+<<<<<<< HEAD
 =======
 GrüßliMüsli aus Berlin :) 
 >>>>>>> refs/heads/master
+=======
+>>>>>>> branch 'nils'_new' of https://github.com/feuerbart/cppprojekt.git
