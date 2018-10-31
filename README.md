@@ -30,12 +30,6 @@ public static void main(){
 	this.wtf;
 }
 ```
-<<<<<<< HEAD
 
 joooo =)
-<<<<<<< HEAD
-=======
-GrüßliMüsli aus Berlin :) 
->>>>>>> refs/heads/master
-=======
->>>>>>> branch 'nils'_new' of https://github.com/feuerbart/cppprojekt.git
+GrüßliMüsli aus Berlin :)
