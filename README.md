@@ -1,12 +1,31 @@
 # cppprojekt
+Tobias ist der beste.
 
-checkcheckcheck
-one-two-one-two
-ich bin auf dem branch jannisbranchyo
+Hallo
+Estou testando o GitHub
+Hallo
 
-alösdfj
+Hallo noch einmal
+
+Hallo2
+
+Hallo3
+
+höhöhöhöhöhöhöhöööööööö
+hallo nils!
+
+jannis hats vielleicht verstanden .... nope
+bla
+
+hi tobi! wie geht's?
+
+hoffentlisch klappt det
+ööörgendwas
+>>>>>>> master
+
 ``` c++
-static void main(){
-	wtf is this?;
+public static void main(){
+	this.wtf;
 }
 ```
+GrüßliMüsli aus Berlin :) 
