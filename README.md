@@ -42,4 +42,11 @@ public static void main(){
 	this.wtf;
 }
 ```
+<<<<<<< HEAD
 GrüßliMüsli aus Berlin :) 
+=======
+
+joooo =)
+GrüßliMüsli aus Berlin :)
+master
+>>>>>>> master
