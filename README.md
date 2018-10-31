@@ -1,15 +1,7 @@
 # cppprojekt
 
-höhöhöhöhöhöhöhöööööööö
-hallo nils!
+dit is davids branch
 
-bla
-
-ich bin auf dem branch test!
-
-hi tobi! wie geht's?
-
-ööörgendwas
 
 ``` c++
 static void main(){
