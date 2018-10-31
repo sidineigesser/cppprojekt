@@ -18,15 +18,14 @@ Hallo3
 höhöhöhöhöhöhöhöööööööö
 hallo nils!
 
-jannis hats vielleicht verstanden
+jannis hats vielleicht verstanden .... nope
 bla
-
-ich bin auf dem branch test!
 
 hi tobi! wie geht's?
 
 hoffentlisch klappt det
 ööörgendwas
+>>>>>>> master
 
 ``` c++
 public static void main(){
