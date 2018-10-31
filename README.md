@@ -1,5 +1,18 @@
 # cppprojekt
-Tobias ist der beste.
+
+
+Hallo
+Estou testando o GitHub
+Hallo
+
+Hallo noch einmal
+
+Hallo2
+
+Hallo3
+
+
+
 
 höhöhöhöhöhöhöhöööööööö
 hallo nils!
@@ -17,5 +30,9 @@ public static void main(){
 	this.wtf;
 }
 ```
+<<<<<<< HEAD
 
 joooo =)
+=======
+GrüßliMüsli aus Berlin :) 
+>>>>>>> refs/heads/master
