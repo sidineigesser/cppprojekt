@@ -1,6 +1,6 @@
 # cppprojekt
 
-checkcheckcheck \n
+checkcheckcheck ^N
 one-two-one-two
 ich bin auf dem branch jannisbranchyo
 
