@@ -1,15 +1,9 @@
 # cppprojekt
 
-höhöhöhöhöhöhöhöööööööö
-hallo nils!
+checkcheckcheck
+one-two-one-two
+ich bin auf dem branch jannisbranchyo
 
-bla
-
-ich bin auf dem branch test!
-
-hi tobi! wie geht's?
-
-ööörgendwas
 
 ``` c++
 static void main(){
